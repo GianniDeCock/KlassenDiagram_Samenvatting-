@@ -21,21 +21,13 @@ It is intended for students reviewing or learning core object-oriented design pr
 
 The entire project is organized within the `ParentDiagrams/` folder.
 
-**Path**
-`ParentDiagrams/KlassenDiagran_UML.ipynb`
-`ParentDiagrams/KlasDemoKlasDiagrammen2`
-`ParentDiagrams/KlasDemoKlasDiagrammen3`
+| Path | Content | Purpose |
+| :--- | :--- | :--- |
+| `ParentDiagrams/KlassenDiagran_UML.ipynb` | Jupyter Notebook | Contains the **theoretical summary** and **reference symbols** for UML elements and relationships. |
+| `ParentDiagrams/KlasDemoKlasDiagrammen2` | Solution (`.sln`) | Practical examples demonstrating **Composition** and **Aggregation** (*Has-a*) relationships. |
+| `ParentDiagrams/KlasDemoKlasDiagrammen3` | Solution (`.sln`) | Practical examples demonstrating **Inheritance** and **Abstract Classes** (*Is-a*). |
 
-**Content**
-Jupyter Notebook
-Solution (.slnx)
-Solution (.slnx)
-
-
-**Purpose**
-Contains the *theoretical summary* and **reference symbols** for UML elements and relationships.
-Practical examples demonstrating **Composition** and **Aggregation** (*Has-a*) relationships.
-Practical examples demonstrating **Inheritance** and **Abstract Classes** (*Is-a*).
+---
 
 🛠️ Concepts Demonstrated (C# Examples)
 ---------------------------------------
@@ -88,8 +80,7 @@ For the theoretical breakdown of UML symbols and definitions, view the notebook:
 
 🤝 Contributing
 ---------------
-
-This project is licensed under the [**MIT License**](https://www.google.com/search?q=LICENSE "null").
+This project is licensed under the [**MIT License**]([https://www.google.com/search?q=LICENSE](https://github.com/The-Siegeverse/KlassenDiagram_Summary/issues) "null").
 
 We welcome contributions, suggestions, and corrections! Improving these examples benefits all students who use this repository.
 
@@ -99,4 +90,4 @@ We welcome contributions, suggestions, and corrections! Improving these examples
 
 3.  **Submit a Pull Request** for review against the appropriate target branch (`dev` or `main`).
 
-Please feel free to open an [**Issue**](https://www.google.com/search?q=https://github.com/GianniDeCock/KlassenDiagram_Samenvatting/issues "null") to report any bugs in the code or suggest new concepts to include.
+Please feel free to open an [**Issue**](https://github.com/The-Siegeverse/KlassenDiagram_Summary/issues) to report any bugs in the code or suggest new concepts to include.
